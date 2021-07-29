@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-purchase{
+    background-color:#E76F51 ;
+    /* background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%); */
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.header-image img{
+    width: 500px;
+    height: 447px;
+}
+.head-background{
+    background-color: #264653;
+}
+.p-colour{
+    color:#E0E0E0;
+}
