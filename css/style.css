@@ -55,9 +55,13 @@ small{
 }
 /* ###faq part style##### */
  .faq-image img{
-    width:431px;
-    height:423px;
+    width:421px;
+    height:400px;
 } 
 .faq{
     color: #264653;
+}
+.footer-part{
+    color: darkgrey;
+    background-color: black;
 }
