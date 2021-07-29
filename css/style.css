@@ -1,10 +1,10 @@
+
 body{
     font-family: 'Poppins', sans-serif;
 }
-
+/*........... header part style.......... */
 .btn-purchase{
     background-color:#E76F51 ;
-    /* background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%); */
     color: #fff;
     border: none;
     border-radius: 8px;
@@ -19,4 +19,37 @@ body{
 }
 .p-colour{
     color:#E0E0E0;
+}
+
+/* Feature bike portion's style */
+.small-tag-colour{
+    color:#E76F51;
+} 
+.feature-image img{
+
+     width:288px;
+    height: 243px; 
+   
+   
+}
+ .grayscale-image img{
+    filter: grayscale(100%);
+    
+} 
+.client{
+    color: #E76F51;
+}
+.card img{
+    width: 149px;
+    height: 149px;
+}
+.fa-star.colourfull{
+    color:#E77C40 ;
+}
+.fa-star.colourless{
+    color:#DEDEDE;
+   
+}
+small{
+    color:#23A6F0;
 }
