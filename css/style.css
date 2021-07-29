@@ -53,3 +53,11 @@ body{
 small{
     color:#23A6F0;
 }
+/* ###faq part style##### */
+ .faq-image img{
+    width:431px;
+    height:423px;
+} 
+.faq{
+    color: #264653;
+}
